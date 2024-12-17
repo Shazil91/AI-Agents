@@ -9,5 +9,7 @@ Integrate seamlessly with existing systems and workflows.
 The repository currently includes:
 
 **Retail Services Chatbot**
+
 **Health Services Chatbot**
+
 Future additions will expand into other domains, such as education, finance, travel, and enterprise services.
