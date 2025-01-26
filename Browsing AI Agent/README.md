@@ -1,4 +1,4 @@
-** ## AI Web Agent ** 
+## ** AI Web Agent ** 
 
 This AI Browsing Agent is an intelligent assistant designed to explore, extract, and summarize information from the web efficiently.
 
